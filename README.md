@@ -2,9 +2,9 @@
 
 **A photography portfolio, client platform and photo map in one**
 
-**[Read the case study →](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)** · [Live](https://www.charlesbingaman.com)
+**[Read the case study →](https://github.com/charlesbingaman/portfolio/blob/main/case-studies/photo-site.md)** · [Live](https://www.charlesbingaman.com)
 
-[![charlesbingaman.com](img/hero-mt-washington-framed.jpg)](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)
+[![charlesbingaman.com](img/hero-mt-washington-framed.jpg)](https://github.com/charlesbingaman/portfolio/blob/main/case-studies/photo-site.md)
 
 - **A complete back office for a working photographer, with nothing they don't need:** culling, client
   delivery, proofing, inquiries and security in one admin.
@@ -15,4 +15,4 @@
 
 ---
 This repository is a showcase: the code is private. A walkthrough or read access is available on request.
-More work: [portfolio](https://github.com/CB-viberrr/portfolio) · © 2026 Charles Bingaman
+More work: [portfolio](https://github.com/charlesbingaman/portfolio) · © 2026 Charles Bingaman
